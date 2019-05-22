@@ -1,0 +1,160 @@
+
+Parties
+Commissioner of Income-tax Versus Guest Keen Williams Ltd.
+High Court of Judicature at Calcutta
+Judges THE HONOURABLE MR. JUSTICE SABYASACHI MUKHERJI &amp; THE HONOURABLE MR. JUSTICE SUDHINDRA MOHAN GUHA
+Income-Tax Reference Appeal No. 265 of 1973DOJ 06.08.1980
+ADVOCATES APPEARED:For the Appearing Parties: A.N. Bhattacharya,B.L. Pal,D. Pal,M. Seal,Advocates.
+Judgment
+SABYASACHI MUKHARJI, J.
+(1) IN this reference under <PV>
+Section 226 (1) </PV>
+of the <LG>	
+I. T. Act , 1961</LG>	
+, the following question has been referred to this court :
+"<IS>	
+	
+whether, on the facts and in the circumstances of the case, the computation of super-tax made by the Income-tax Officer is, in law, correct ?" </IS>	
+
+ (2) <FC>	
+THE ITO 	
+computed the total income	
+at Rs. 2,18,81,633, in accordance with the provisions of the First Schedule in Part 2, Para. D of the Finance Act, 1964. The ITO calculated the super-tax chargeable from the company on the whole of the total income at 55%. In accordance with prov. (iii) (B), the ITO allowed rebate of 26% on Rs. 11,06,977 being that part of the total income as was attributable to the manufacture of articles specified in the list in Part IV of the Schedule and at 20% on the balance of the total income amounting to Rs. 2,07,62,199. Thus, against the corporation tax of Rs. 1,20,29,946. 90 calculated at the rate of 55% of the total income, a rebate in corporation tax was calculated at Rs. 44,40,253. 62. Since the company had issued bonus shares of Rs. 2,10,72,910 reduction at the rate of 121/2% on account of such bonus shares was made. This reduction amounted to Rs. 26,34,114. The net rebate thus was worked out to 46. 741% of the total income. Under the provisions of Section 84 of the I. T. Act , 1961, the ITO had allowed rebate of Rs. 21,15,879 at 46. 741% while the rebate under   Section 99 (1)  (iv) on inter-corporate dividend of Rs. 18,25,920 was allowed at 46. 741%. The rebate on the above two items had worked out to Rs. 18,42,436. 26. The net super-tax payable by the company was determined at Rs. 83,79,470. 72. It may be proper for the purpose of better understanding of this position to set out the actual working out of these figures by the ITO in the computation made by him. </FC>	
+
+Annexure A
+M/s. Guest Keen Williams Ltd.
+Assessment year 1964-65.
+Rs.
+Business
+,30,327
+Interest on securities (Cr. Rs. 1,880)
+Dividend from subsidiary Co. (Cr. Rs. 5,47,776)
+,920
+,67,324
+Capital gains on sale of assets
+(Long term) on sale of Govt. Securities
+Total income
+,81,633
+Rebate u/s. 88 on allowance on
+Relief u/s. 84 and 101 allowable on
+,879
+Income from priority industries
+,977
+Tax Computation as per I. T. Assmtt. Order I. T. @ 25% on Rs. 2,18,81,633
+,408. 25
+Less : rebate under  sec. 88 on Rs. 4,475 @ 25%
+75
+Total
+,289. 50
+Less : relief under  sec. 84 on Rs. 21,15,879 @ 25%
+,969. 75
+c/o
+,319
+New industrial
+,319. 75
+Less : Credit
+,190. 00
+Total
+,129. 75
+C. T. @ 55% on Rs. 2,18,69,176
+,28,046. 80
+Less : Rebate on Rs. 11,06,977 @ 26%
+,814. 02
+Rebate on Rs. 2,07,62,199 @ 20%
+,439. 80
+Total
+,253. 82
+Less : Reduction in rebate on a/c. of bonus shares of Rs. 2,10,72,910 @ 12%
+,114. 00
+,139. 82
+Total
+,21,906. 98
+Rebate u/s. 84 on Rs. 21,15,879 @ 46. 741%
+,983. 00
+Rebate u/s. 99 (1) (iv) on Rs. 18,25,920 @ 46. 741%
+,453. 26
+,436. 26
+,470. 72
+Less : Credit
+00
+,004. 72
+,70,134. 47
+Add tax on capital gains 622. 85
+,70,757. 32
+(3) THE Addl. Commissioner called for and examined the records of the assessee-company. He was of the view that the order of the ITO in so far as it made a computation of rebate on super-tax was erroneous and prejudicial to the interests of the revenue. According to the Addl. Commissioner, the correct computation was that having determined the super-tax payable by the assessee-company at 55% on the total income thereof at Rs. 1,20,28,046. 80 the ITO could have granted therefrom relief under   Section 101 in respect of new industrial undertakings on the income of Rs. 21,15,879 and rebate under   Section 99 (1)  (iv) on inter-corporate dividends of Rs. 18,25,920. Thus, on these two items totalling Rs. 39,41,799 rebate at 55% amounting to Rs. 21,67,989. 45 should have been allowed bringing the super-tax payable to a figure of Rs. 98,60,057. 35. After having done so, according to the Additional Commissioner, the ITO should have allowed rebate at 26% on income from priority industries amounting to Rs. 11,06,977 and at the rate of 20% on the balance of Rs. 1,68,21,400. These rebates worked out to Rs. 36,52,094. 02. The reduction in rebate on account of bonus shares of Rs. 2,10,72,910 at 121/2% was worked out at Rs. 26,34,114. Thus, the figure of net rebate was brought out at Rs. 10,17,980. 02. According to the computation of the Addl. Commissioner, the corporation tax chargeable was Rs. 88,42,077. 33 as against Rs. 83,79,470. 72 computed by the ITO. The Addl. Commissioner held that the order of the ITO was to that extent erroneous and prejudicial to the interests of the revenue. He, therefore, set aside the assessment with a direction to the ITO to make a fresh reassessment according to law and facts after giving adequate and reasonable opportunity to the assessee. The order of the Addl. Commissioner contained a computation which it would be better to set out.
+Annexure A
+M/s. Guest Keen Williams Ltd.
+Assessment year 1964-65.
+Rs.
+Business
+,30,327
+Interest on securities (Cr. Rs. 1,880)
+Dividend from subsidiary Co. (Cr. Rs. 5,47,776)
+,920
+,67,324
+Capital gains on sale of assets
+(Long term) on sale of Govt. Securities
+Total income
+,81,633
+Rebate u/s. 88 on allowance on
+Relief u/s. 84 and 101 allowable on
+,879
+Income from priority industries
+,977
+Tax Computation as per I. T. Assmtt. Order I. T. @ 25% on Rs. 2,18,81,633
+,408. 25
+Less : rebate under  sec. 88 on Rs. 4,475 @ 25%
+75
+Total
+,289. 50
+Less : relief under  sec. 84 on Rs. 21,15,879 @ 25%
+,969. 75
+c/o
+,319
+New industrial
+,319. 75
+Less : Credit
+,190. 00
+Total
+,129. 75
+C. T. @ 55% on Rs. 2,18,69,176
+,28,046. 80
+Less : Rebate on Rs. 11,06,977 @ 26%
+,814. 02
+Rebate on Rs. 2,07,62,199 @ 20%
+,439. 80
+Total
+,253. 82
+Less : Reduction in rebate on a/c. of bonus shares of Rs. 2,10,72,910 @ 12%
+,114. 00
+,139. 82
+Total
+,21,906. 98
+Rebate u/s. 84 on Rs. 21,15,879 @ 46. 741%
+,983. 00
+Rebate u/s. 99 (1) (iv) on Rs. 18,25,920 @ 46. 741%
+,453. 26
+,436. 26
+,470. 72
+Less : Credit
+00
+,004. 72
+,70,134. 47
+Add tax on capital gains 622. 85
+,70,757. 32
+(4) BEING aggrieved by the aforesaid order of the Addl. Commissioner the revenue went up in appeal before the Tribunal. The Tribunal, after discussing the facts, referred to the relevant Finance Act, being the Finance Act of 1964, which provided for the charge of super-tax under the provisions of Section 95 of the I. T. Act , 1961, and prescribed the rates at which supertax was to be levied on different classes of assessees. The Tribunal then discussed the relevant provisions of Part IV and the relevant sections and the Tribunal was of the view that the Addl. Commissioner was in error in approaching the issue in dispute by applying the provisions of the Finance Act in bits firstly, then by applying the rate of 55 per cent. , then by invoking the provisions of the I. T. Act  and then reverting back to the provisions of the Finance Act. The Tribunal was, therefore, of the view that a more rational, appropriate and logical method would be first to determine the super-tax with reference to the rates prescribed by the relevant provisions of the Finance Act read with the proviso thereto and then to determine the rebates due under the provisions of the I. T. Act , 1961. The Tribunal, in these circumstances, upheld the contention of the assessee and was of the opinion that the decision of the Addl. Commissioner was erroneous. The Tribunal further observed that even if it held that the manner of computation adopted by the Addl. Commissioner was a more plausible one than the one adopted by the ITO, the computation of the ITO should be preferred because it was in favour of the assessee. On the footing, that the computation made by the Addl. Commissioner was equally tenable as that made by the ITO, still the assessee was entitled to be treated on the basis of the computation made by the ITO. and not on the one made by the Addl. Commissioner. In these circumstances, the Tribunal allowed the the appeal of the assessee. In the premises, the question mentioned hereinbefore has been referred to this court.
+(5) THE question which is relevant is, whether the computation of supertax made by the ITO is correct. We have to refer to the method and manner of computation of super-tax, according to the Finance Act of 1964 read with the I. T. Act , 1961, in order to appreciate this question.Section 2 (1) (b) of the Finance Act, 1964, laid down that super-tax, for the purpose of Section 95 of the I. T. Act , 1961, should be charged at rates specified in Part II of the First Schedule, and in the cases where Paras. A, B and C of that part applied, the amount of income-tax shall be increased by a surcharge for the purpose of the Union calculated in the manner provided therein. Part II of the First Schedule provides for the super-tax and surcharge on super-tax. Paragraph D, which is relevant for our present purpose, provides that in the case of every company other than the Life Insurance Corporation of India, established under the Life Insurance Corporation Act, 1956, on the whole of the total income, super-tax will be at 55 per cent. We are not concerned with Sub-clause (iii) (A). But the other Sub-clause (iii) (B), which is relevant, provides as follows:
+" Paragraph D (iii) (B). In the case of any company which is not entitled to any rebate under sub-clause (A) of this clause, a rebate at the rate of 26 per cent. on so much of its total income as is attributable to the business of generation or distribution of electricity or of manufacture or production of any one or more of the articles specified in the list in Part IV of this Schedule; and at the rate of 20 per cent. on the balance of the total income, shall be allowed if- (a) such company satisfies condition (a) of Clause (i); and (b) it is not such a company as is referred to inSection 108 of the Income-tax Act. . . . . . Provided further that- (i) the amount of the rebate under Clause (i) or Clause (ii) or Clause (Hi) of the preceding proviso shall be reduced by the sum, if any, equal to the amount or the aggregate of the amounts, as the case may be, computed as hereunder:- ?. . . (b) on the amount representing the face value of any bonus shares or the amount of any bonus issued to its shareholders during the previous year with a view to increasing the paid-up capital except where such bonus shares or bonus have been issued wholly out of the share premium account of the company after the 31st day of March, 1964; and. . . . . . at the rate of 121/2%. " in the present case, according to Clause (b) of prov. (iii) in the case of any company, which is not entitled to any rebate under Sub-clause (A) of this proviso, a rebate at the rate of 26 per cent. on so much of its total income as is attributable to the business of generation or distribution or manufacture or production of any one or more of the articles specified in the list in Part IV of this Schedule and at the rate of 20 per cent. on the balance of the total income should be allowed under certain contingencies. The rebate so allowed under the proviso has, however, to be reduced as provided by the further proviso, which we have set out hereinbefore and Clause (B) of prov. (i) (b) provided that the rebate, under the earlier proviso should be reduced at the rate of 12% on the amount representing the face value of any bonus shares or the amount of any bonus issued to its shareholders during the previous year with a view to increasing the paid up capital except where such bonus shares or bonus had been issued wholly out of the share premium account of the company after the 31st March, 1964. It is possible to contend that the result would be that the super-tax payable by the company is first to be calculated by first applying the rate of 55 per cent. on the whole of the total income and then by reducing the amount by the rebates provided under the proviso and such rebate has further to be reduced if the second proviso applies to that case. It is only after the super-tax as also the rebate and the reduction in rebate, as provided in the Finance Act, 1964, have been computed that it can be determined as to the amount of super-tax payable on the total income of an assessee. Section 95 of the I. T. Act , 1961, provides that in addition to the income-tax charged for any assessment year and save as otherwise provided in the 1961 Act, there shall be a charge for that assessment year in respect of the " total income of the previous year or previous years, as the "case may be, of every person, not being a registered firm, an additional duty of income-tax at the rate or rates specified for that assessment year by way of Central Act ". The charge is upon the total income of the previous year as an additional duty on income-tax. The relief in respect of the income-tax on profits derived from any new industrial undertaking is provided under Section 84 of the I. T. Act , 1961, and the corresponding relief in respect of the profits derived from an industrial undertaking in respect of super-tax is given under Sub-section (1) of   Section 101 which stipulates that the assessee should be entitled to deduction from the amount of super-tax with which the assessee is chargeable on his total income, of an amount equal to the super-tax, calculated at the average rate of super-tax, on profits or gains derived from an industrial undertaking or hotel in cases where and to the extent to which income-tax is not payable on such profits or gains under  Section 84.   Section 99 (1)  (iv) provides that super-tax shall not be payable in respect of inter-corporate dividends received by a company front an Indian company.   Section 110 provides that where there is included in the total income of an assessee any income on which no income-tax or no super-tax is payable under the provisions of the Act, the assessee should be entitled to a deduction from the amount of the supertax which is chargeable on his total income of an amount equal to the super-tax calculated at the average rate of super-tax on the amount on which no super-tax in payable. The expression " average rate of supertax " has been defined under    Section 2 (11) to mean the rate arrived at by dividing the amount of super-tax calculated on the total income by such total income. In this connection, reference may be made to Section 2 (10) and    Section 2 (11) of the I. T. Act , 1961, which are as follows:
+" 2. (10) ' Average rate of income-tax ' means the rate arrived at by dividing the amount of income-tax calculated on the total income, by such total income; (11) 'average rate of super-tax' means the rate arrived at by dividing the amount of super-tax calculated on the total income, by such total income. "
+(6) THE meaning of the expression " average rate of income-tax " in connection with   Section 2 (10) fell for our consideration in the case of ITO v. Raleigh Investment Co. Ltd. The said expression was also before the Division Bench of the Bombay High Court in the case of Birla Bombay P. Ltd. v. CIT [1980] 121 ITR 142, where assenting to the decision of the Calcutta High Court, the Division Bench of the Bombay High Court in connection with  Section 85a of the I. T. Act , 1961, observed that the deduction which was available according to the phraseology employed by the Legislature was of " so much of the amount of income-tax " and for calculation of the deduction at the average rate was first required to be ascertained. After this average rate was calculated, it had to be applied to the income as included, i. e. , the inter-corporate dividend income, and the deduction allowed by  Section 85a was equivalent to the difference between the amount of tax at the average rate so arrived at and 25 per cent. of the intercorporate dividend.
+(7) IT appears that the relief provided under Section 99 (1) (iv) of the I. T. Act , 1961, read with     Section 110  (b) in respect of the inter-corporate dividend and the relief provided under  Section 85 read with    Section 101 of the said Act in respect of profits of industrial undertaking had to be allowed on the average rate of super-tax on the amount on which no super-tax was payable in the case of inter-corporate dividends and on the amount of the profits from industrial undertaking the average rate of tax has to be calculated in terms of  Section 2 (11) of the I. T. Act , 1961, only after the super-tax was calculated on the total income. The average rate of super-tax is ascertained by dividing the amount of super-tax calculated on the total income by such total. " Total income " has been defined in Section 2 (45) of the I. T. Act , 1961, to mean the total amount of income referred to in Section 5 and computed in the manner laid down in the Act. In that light, the method of computation adopted by the ITO appears to be correct. The relevant Finance Act provides for charge of super-tax under the provisions of Section 95 of the I. T. Act  and prescribes the rate/rates at which super-tax was to be levied on different classes of assessees. Part IV, Para. D, laid down that in the case of every company, the rate of super-tax would be 55 per cent. on the whole of the total income. In a company like the assessee which was covered by prov. (iii) (B), rebate @ 26 per cent. on so much of the total income as was attributable to the business of generation or distribution of electricity or of manufacture or production of articles specified in the list in Part IV of the Schedule and at 20 per cent. on the balance of the total income should be allowed. Under the provisions of    Section 84 of the I. T. Act , 1961, the exemption from tax in respect of profits and gains derived from new industrial undertakings, which fulfills the requisite conditions are provided.   Section 99 (1)  (iv) lays down super-tax shall not be payable by an assessee in respect of the dividend received by a company from an Indian company which has made the prescribed arrangements for the declaration and payment of dividends out of India.    Section 110 also, provides that where there was included in the total income of the assessee any income on which no income-tax was payable, the assessee should be entitled to a deduction from the amount of income-tax which was chargeable on its total income, of an amount equal to the income-tax calculated at the average rate of income-tax on the amount on which no income-tax was payable.    Section 2 (10) defines the average rate of income-tax to mean the rate arrived at by dividing the amount of income-tax calculated on the total income by such total income. It is apparent that prov. (iii) (B) to Para. D of the First Schedule to the Finance Act prescribed for rebate at the rates mentioned therein in respect of income attributable to priority industries. When the ITO had to compute the rebate on super-tax, as provided in the Finance Act, he is not required to determine the average rate of tax but had to allow the rebate at rates prescribed therein. It was only after super-tax as also the rebate and the reduction in rebate, as provided in the Finance Act, had been computed that it could be determined as to what was the super-tax payable on the total income of an assessee. Then alone one would get the average rate of super-tax, as provided under    Section 2 (11) of the I. T, Act , 1961. The exemptions and rebates granted under     Section 84 and   Section 99 (1)  (iv) could be given effect to under    Section 101 and    Section 110 only after the rate of super-tax had been computed. Looked at from that point of view the computation made by the ITO is a correct one. He has first computed the super-tax at 55 per cent. , then rebate on super-tax in accordance with the provisions of prov. (iii) (B) to Para. D of the 2nd Part to the First Schedule of the Finance Act had been worked out. Then he had calculated reduction in rebate and had thus determined the net rebate admissible to the assessee. Deducting this from the super-tax chargeable at 55 per cent. , he had worked out the super-tax on the total income. In accordance with the provisions of    Section 2 (10) he had worked out the average rate of super-tax at 46. 74% and it was at this rate that he had allowed rebate under     Section 84 and   Section 99 (1)  (iv). In the aforesaid view, the computation made by the ITO is in consonance with the statute. In the computation made by the Addl. Commissioner, what he has done was that he had computed super-tax at 55 per cent. on the total income and then without giving effect to prov. (iii) (B) of Para. D of the First Schedule to the Finance Act of 1964, the Addl. Commissioner had computed the relief under     Section 84 and   Section 99 (1)  (iv) at 55 per cent.
+(8) <HD>
+
+
+THE Addl. Commissioner has computed the relief under   Section 84 and  Section 99 (1)  (iv) at the rate of 55%. This would indicate that according to the Addl. Commissioner, the average rate of super-tax was 55%. This assumption by the Addl. Commissioner does not appear to be correct. The allowance of rebates under the Finance Act and the withdrawal of rebate thereunder should be considered as an integral part of the charge of supertax under the Finance Act. As such it is only after full effect had been given to the provisions of the Finance Act that it can be determined as to what was the super-tax chargeable on the total income and then alone the average rate of super-tax could be worked out. The method of computation adopted by the Addl. Commissioner ignored this basic fact. What the Addl. Commissioner has done was that he had computed super-tax on the total income at the rate of 55%. Then, as it were, he had given a go-bye to the proviso to the paragraph providing for the rebate and had immediately come to the application of   Section 101 and  Section 110 read with Sections 84 and 99 (1) (iv) of the I. T. Act , 1961. Having done this, he then reverted to the Finance Act and invoked prov. (iii) (B) to Para. D and then arrived at the figure of corporation tax rebate. We are in agreement with the Tribunal that there was no warrant for the Addl. Commissioner applying the provisions of the Finance Act in bits.
+(9) ON the other hand, in view of the language used in the Act, the construction made by the ITO was a possible one, and if that is so, both the constructions being possible, the one which is made by the ITO being more in favour of the assessee should be preferred than the one made by the Addl. Commissioner.
+(10) IN the computation made by the Addl. Commissioner, he has referred to the heading " in accordance with the computation of tax as per the Bombay High Court's judgment". There is, however, no reference to that particular judgment. On enquiry, learned advocate for the revenue informed us that the reference was to a decision reported in Taxation (Vol. 26) page 50 (Bombay Vyapar P. Ltd. v. CIT--I. T. R. No. 111 of 1962 decided on 7-2-68). It appears from the note that there the Bombay High Court was concerned with the assessment year 1958-59 and there the relevant Finance Act, with which we are concerned, was not under consideration; neither the terms under which and the reasoning with which the judgment was arrived at is apparent from the note as reported. Unfortunately, learned advocate for the revenue was not able to produce a copy of the said judgment of the Bombay High Court, on which he sought to rely. In the aforesaid view, we are unable to take notice of the said decision of the Bombay High Court. </HD>
+
+	
+
+(11) THE question as framed is not quite correct. Therefore, we answer the question by saying that the Tribunal was right in holding that the computation made by the ITO was, in law, correct. In the facts of this case, each party will pay and bear its own costs.
