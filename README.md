@@ -57,3 +57,5 @@ Used `WordNetLemmatizer ` to do lemmatization
 
 [1]: http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/	"Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur"
 
+[2]: https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/	"Complete Guide to Parameter Tuning in XGBoost (with codes in Python)"
+
