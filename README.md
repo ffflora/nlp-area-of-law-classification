@@ -14,7 +14,7 @@ Still in progress to achieve higher accuracy.
 
 - Text preprocessing
 - Feature extraction and evaluation
-- Model selection, training, and result comparason 
+- Model selection, training, and result comparison 
 - Setup pipeline and hyperparameter tuning 
 
 
@@ -29,17 +29,27 @@ Tools/Libraries used: `NLTK`
 
 Used `WordNetLemmatizer ` to do lemmatization
 
+###### TF-IDF
 
+###### Fit Modeling
+
+###### Prediction
+
+###### Build Pipeline and tune Hyperparameters
+
+###### Topic Modeling
 
 ------
 
+#### Problems:
 
+After some models built in the project, I realized that legal documents in the Natural Language Processing area is a special topic that requires different techniques and tools than regular text data. I plan to do Information Extraction on these text project first and then see will that improve the accuracy.
 
 #### Conclusion(s)/Discussion.
 
 ##### In Progress:
 
-- Topic Modeling(specifically for legal documents)
+- Topic Modeling (specifically for legal documents)
 - Wordcloud 
 - Visualization and analysis 
 
@@ -55,7 +65,10 @@ Used `WordNetLemmatizer ` to do lemmatization
 
 ##### Some Useful Links:
 
-[1]: http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/	"Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur"
+[Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
-[2]: https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/	"Complete Guide to Parameter Tuning in XGBoost (with codes in Python)"
+[Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/ )
 
+[LexNLP: Natural language processing and information extraction for legal   and regulatory texts](https://www.groundai.com/project/lexnlp-natural-language-processing-and-information-extraction-for-legal-and-regulatory-texts/)
+
+[approaching almost any machine learning problem](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/ )
