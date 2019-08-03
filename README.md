@@ -1,4 +1,4 @@
-# NLP Task: Text Classification - **Area_of_Law_Classification**     
+# NLP Task: Text Classification   
 
 This project is a NLP task for an online interview assignment.
 
