@@ -37,19 +37,20 @@ Used `WordNetLemmatizer ` to do lemmatization
 
 ###### Build Pipeline and tune Hyperparameters
 
-###### Topic Modeling
+###### 
 
 ------
 
 #### Problems:
 
-After some models built in the project, I realized that legal documents in the Natural Language Processing area is a special topic that requires different techniques and tools than regular text data. I plan to do Information Extraction on these text project first and then see will that improve the accuracy.
+After some models built in the project, I realized that legal documents in the Natural Language Processing area is a special topic that requires different techniques and tools than regular text data. I plan to do Information Extraction on these text project first and then see will that improve the accuracy. 
+
+I notice there's a powerful package LexNLP which deals with the NLP problems with legal documents, 
 
 #### Conclusion(s)/Discussion.
 
 ##### In Progress:
 
-- Topic Modeling (specifically for legal documents)
 - Wordcloud 
 - Visualization and analysis 
 
